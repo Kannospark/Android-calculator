@@ -20,6 +20,15 @@ Registry: external.system.auto.import.disabled=true
 
 ![interface](./calculator.png)  
 
+## What can the calculator do?
+
+- Accurately calculate addition, subtraction, multiplication, division, including decimals.  
+
+- Store the current number with "存" button, and retrieve the stored number with "取" button.  
+
+- Different voice when clicking different buttons.  
+
+- Beautiful Starry Night Theme.  
 
 
 
