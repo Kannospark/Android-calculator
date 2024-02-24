@@ -16,7 +16,7 @@ Registry: external.system.auto.import.disabled=true
 
 ### Virtual Device: Galaxy Nexus API 25 | Target: Android 7.1.1 | Resolution: 720 x 1280 : xhdpi  
 
-## interface  
+## Interface  
 
 ![interface](./calculator.png)  
 
